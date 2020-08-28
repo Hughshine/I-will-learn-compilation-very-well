@@ -1,0 +1,4 @@
+Hello!
+I'm a test file with four lines.
+It's currently the third line.
+Finally we get to four!!!
